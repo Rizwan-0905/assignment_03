@@ -1,0 +1,21 @@
+{
+  "name": "assignment_03",
+  "version": "1.0.0",
+  "description": "backend for the portfolio app",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.pers:Rizwan-0905/assignment_03.git"
+  },
+  "author": "Rizzzler pro max",
+  "license": "ISC",
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0"
+  }
+}
